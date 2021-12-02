@@ -19,7 +19,7 @@ All required actions to play game will appeared in console.
 
 ## Game Rules
 
-When 2 players are connected the game will begin
-You have to enter numbers between 1 to 9
-You can resign game by sending 'r'
+When 2 players are connected the game will begin  
+You have to enter numbers between 1 to 9  
+You can resign game by sending 'r'  
 When a player lefts the game, another player will win
